@@ -1,0 +1,1 @@
+"%ProgramFiles%\Microsoft Visual Studio 9.0\Common7\IDE\devenv" /rebuild "Release - PSP|win32" "..\Master.sln"
